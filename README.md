@@ -4,7 +4,7 @@
   <img src="happy/logo.png">
 </p>
 
-O Happy é uma aplicação desenvolvida na [Next Level Week](https://nextlevelweek.com/), semana realizada pela [Rocketseat](https://rocketseat.com.br/) focada na stack NojeJs, React e React Native. O objetivo do Happy é listar os Orfanatos de uma determinada região, informando detalhes, horários que aceitam visitas, etc. Possibilitando que as pessoas visitem orfanatos e mude o dia de muitas crianças.
+O Happy é uma aplicação desenvolvida na [Next Level Week 03](https://nextlevelweek.com/), semana realizada pela [Rocketseat](https://rocketseat.com.br/) focada na stack NodeJs, React e React Native. O objetivo do Happy é listar os Orfanatos de uma determinada região, informando detalhes, horários que aceitam visitas, etc. Possibilitando que as pessoas visitem orfanatos e mude o dia de muitas crianças.
 
 <p align="center">
   <img src="happy/web.png">
@@ -41,7 +41,7 @@ $ npm start
 $ expo start
 ```
 <p align="center">
-  <img src="happy/mobile.jpeg">
+  <img src="happy/mobile.png">
 </p>
 
 # :hourglass: ToDO
