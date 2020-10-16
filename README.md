@@ -46,6 +46,8 @@ $ expo start
 
 # :hourglass: ToDO
 * No projeto Mobile: Criar ícone e splashScreen para Android e Ios
+* Implementar [Shimmer Effect](https://blog.rocketseat.com.br/react-native-shimmer/)
+* [Desafio para versão 2.0](https://www.notion.so/Vers-o-2-0-do-Happy-c754db7a4d41469e8c2d00fcf75392c4) 
 
 # :computer: Libs utilizadas
 
